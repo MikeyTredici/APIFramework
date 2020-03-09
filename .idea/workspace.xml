@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02eceaf2-4434-4db7-9355-8b9d6dcbb671" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WteAklivkPLXdCUvz0Y8kzpXsJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/APIFramework/APIFramework" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mike\IdeaProjects\APIFramework\src\test\java" />
+      <recent name="C:\Users\Mike\IdeaProjects\APIFramework\src\test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mike\IdeaProjects\APIFramework\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Scenario: Verify if Place is being Successfully added using AddPlaceApi">
+    <configuration name="Feature: placeValidations" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/placeValidations.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="APIFramework" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: placeValidations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify if Place is being Successfully added using AddPlaceApi" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/placeValidations.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="APIFramework" />
+      <option name="NAME_FILTER" value="^Verify if Place is being Successfully added using AddPlaceApi$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify if Place is being Successfully added using AddPlaceApi$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify if Place is being Successfully added using AddPlaceApi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="APIFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.options.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cucumber.options" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.options.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Scenario: Verify if Place is being Successfully added using AddPlaceApi" />
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="Cucumber java.Feature: placeValidations" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02eceaf2-4434-4db7-9355-8b9d6dcbb671" name="Default Changelist" comment="" />
+      <created>1579973176862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579973176862</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2660" y="276" key="FileChooserDialogImpl" timestamp="1580424357867">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="276" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580424357867" />
+    <state width="1877" height="493" key="GridCell.Tab.0.bottom" timestamp="1580261152990">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="493" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580253652997" />
+    <state width="1877" height="493" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580261152990" />
+    <state width="1877" height="493" key="GridCell.Tab.0.center" timestamp="1580261152990">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="493" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580253652996" />
+    <state width="1877" height="493" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580261152990" />
+    <state width="1877" height="493" key="GridCell.Tab.0.left" timestamp="1580261152989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="493" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580253652996" />
+    <state width="1877" height="493" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580261152989" />
+    <state width="1877" height="493" key="GridCell.Tab.0.right" timestamp="1580261152990">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="493" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580253652996" />
+    <state width="1877" height="493" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580261152990" />
+    <state x="352" y="0" key="SettingsEditor" timestamp="1581822662191">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2360" y="95" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579973865240" />
+    <state x="352" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581822662191" />
+    <state x="525" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1580406419220">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="525" y="273" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1580341711647" />
+    <state x="2576" y="345" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580252668931" />
+    <state x="525" y="273" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580406419220" />
+    <state x="2262" y="216" key="new project wizard" timestamp="1580424381364">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2262" y="216" key="new project wizard/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580424381364" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1580254906031">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580254906031" />
+  </component>
+</project>
